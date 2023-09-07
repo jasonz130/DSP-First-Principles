@@ -75,4 +75,3 @@ int main () {
     free(double_matrix);
     return 0;
 }
-
