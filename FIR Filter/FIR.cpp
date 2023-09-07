@@ -31,4 +31,4 @@ float FIRFilter_calc(FIRFilter *fir, float inputVal){
     fir->buffIndex++;
 
     return out;
-}
+} 
